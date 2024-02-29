@@ -1,0 +1,4 @@
+data
+trained.pth
+__pycache__
+trained_model.tnf
